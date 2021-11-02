@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Saimir Baraj
-- 👀 I’m interested in web development technologies and applications.
-- 🌱 I’m currently learning React + Nodejs
+- 👀 I'm a NodeJs and React Developer.
 - 💞️ I’m looking for an opportunity to practice my new skill set.
 - 📫 How to reach ...
 
