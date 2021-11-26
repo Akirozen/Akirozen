@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saimir Baraj
-- 👀 I'm a NodeJs and React Developer.
+- 👀 I'm a React and NodeJs Developer.
 - 💞️ I’m looking for an opportunity to practice my new skill set.
-- 📫 How to reach ...
+- 📫 How to reach :  saimirbaraj@gmail.com 
 
 <!---
 Saimir/Akirozen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
